@@ -132,6 +132,7 @@ internation.prototype.languagePacks = {
             // Markets
             "poloniex": "P网",
             "bittrex": "B网",
+            "xt": "XT",
             "bleutrade": "Bleutrade",
             "yobit": "Yobit",
             "empoex": "Empoex",
@@ -285,6 +286,7 @@ internation.prototype.languagePacks = {
             // Markets
             "poloniex": "Poloniex",
             "bittrex": "Bittrex",
+            "xt": "XT",
             "bleutrade": "Bleutrade",
             "yobit": "Yobit",
             "empoex": "Empoex",
@@ -436,6 +438,7 @@ internation.prototype.languagePacks = {
             // Markets
             "poloniex": "ポロニエス",
             "bittrex": "ビットレックス",
+            "xt": "XT",
             "bleutrade": "ブリュトレード",
             "yobit": "ヨビト",
             "empoex": "エンポックス",
@@ -599,6 +602,7 @@ internation.prototype.languagePacks = {
             // Рынки
             "poloniex": "Poloniex",
             "bittrex": "Bittrex",
+            "xt": "XT",
             "bleutrade": "Bleutrade",
             "yobit": "Yobit",
             "empoex": "Empoex",
@@ -763,6 +767,7 @@ internation.prototype.languagePacks = {
             // Markets	// ตลาด
             "poloniex": "Poloniex",
             "bittrex": "Bittrex",
+            "xt": "XT",
             "bleutrade": "Bleutrade",
             "yobit": "Yobit",
             "empoex": "Empoex",
